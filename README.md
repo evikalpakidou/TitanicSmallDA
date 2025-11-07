@@ -58,5 +58,5 @@ This analysis focuses on understanding the correlations between **passenger demo
 Clone this repository and open the notebook in **Jupyter** or **Google Colab**:
 
 ```bash
-git clone https://github.com/<evikalpakidou>/TitanicDataAnalysis.git
-cd TitanicDataAnalysis
+git clone https://github.com/<evikalpakidou>/TitanicSmallDA.git
+cd TitanicSmallDA.git
