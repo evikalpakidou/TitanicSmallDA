@@ -13,14 +13,13 @@ This analysis focuses on understanding the correlations between **passenger demo
 
 ##  Technologies Used
 
-- 🐍 Python 3  
-- 📦 Pandas – data manipulation and analysis  
-- 📈 Matplotlib – 2D and 3D plotting  
-- 🌈 Seaborn – statistical visualization  
-- 🧮 NumPy – numerical operations  
+ 🐍 Python 3  
+ 📦 Pandas – data manipulation and analysis  
+ 📈 Matplotlib – 2D and 3D plotting  
+ 🌈 Seaborn – statistical visualization  
+ 🧮 NumPy – numerical operations  
 
-
-##  Key Analysis Steps
+##  Key Analysis Steps:
 
 1. **Data Loading and Inspection**
    - Read the dataset directly from GitHub using Pandas.
@@ -41,7 +40,7 @@ This analysis focuses on understanding the correlations between **passenger demo
    - **Bar charts**: survival rate by gender, age, and fare  
    - **Heatmaps**: multi-dimensional relationships between age, fare, and sex  
    - **3D scatter plots**: age vs fare vs survival
-   - 
+    
 ##  Example Visuals
 
 - Bar plots showing survival rates by demographic features  
